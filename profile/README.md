@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-** Here are Active Opensource projects, feel free to send us pull requests**
+** Here are Active Open Source projects, feel free to send us pull requests**
 
 - <a href="https://github.com/tejasc0/robovice-pwa" target="_blank">tejasc0/robovice-pwa</a><br>
 - <a href="https://github.com/robovice/typography" target="_blank">robovice/typography</a><br>
